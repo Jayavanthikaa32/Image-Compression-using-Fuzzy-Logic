@@ -8,9 +8,9 @@ Image compression is the technique used to decrease the size of an image while p
 
 In image compression, fuzzy logic is utilised to reflect the subjective character of human perception, resulting in a more accurate representation of picture quality. By using fuzzy membership functions, fuzzy logic is utilised in image compression to analyse and adaptively alter the amount of compression applied to different regions of an image based on their perceived value or visual significance. This enables a more flexible and subjective approach to compression, maintaining important features while eliminating less important information.
 
-# This project compares the image compression with fuzzy logic and without fuzzy logic.
+### This project compares the image compression with fuzzy logic and without fuzzy logic.
 
-# Steps in Image compression using fuzzy logic 
+### Steps in Image compression using fuzzy logic 
 
 Preprocessing: Techniques such as colour space transformation, downsampling, and filtering are used to prepare the picture for compression.
 
