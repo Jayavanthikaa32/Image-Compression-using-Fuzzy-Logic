@@ -18,7 +18,7 @@ Transformation: Image data is changed from one domain to another using technique
 
 Quantization : It is the process of lowering the accuracy or range of values of changed coefficients. This phase adds information loss by decreasing the precision of the converted coefficients.
 
-# In the quantization stage of image compression, fuzzy logic is commonly utilised. It is used to establish the optimum amount of quantization for various image components depending on their perceived value or visual significance. Because fuzzy logic takes into account the subjective nature of human perception, it aids in maintaining key features while lowering less crucial information, resulting in increased image quality following compression.
+### In the quantization stage of image compression, fuzzy logic is commonly utilised. It is used to establish the optimum amount of quantization for various image components depending on their perceived value or visual significance. Because fuzzy logic takes into account the subjective nature of human perception, it aids in maintaining key features while lowering less crucial information, resulting in increased image quality following compression.
 
 Encoding: The quantized coefficients are encoded using a variety of techniques, including Huffman coding, Arithmetic coding, and Run-Length Encoding. This stage minimises the amount of the encoded data by using shorter codes to represent common patterns or symbols.
 
